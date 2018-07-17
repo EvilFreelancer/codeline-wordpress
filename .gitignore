@@ -1,0 +1,7 @@
+/.idea/
+/databases/
+/logs/
+/.env
+/docker-compose.yml
+/wordpress/wp-content/uploads
+/wordpress/wp-content/upgrade
